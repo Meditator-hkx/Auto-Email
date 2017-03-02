@@ -1,0 +1,5 @@
+
+Name	Student ID	Course	Score	Email
+A	001	CS123	65	a@163.com
+B	002	CS124	89	b@qq.com
+C	003	CS125	100	c@hotmail.com
