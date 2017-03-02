@@ -3,6 +3,7 @@
 ## How to use
 
 > cd Auto-Email/
+
 > python ./autoemail.py
 
 Follow the tips of labels and fill corresponding information
